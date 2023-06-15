@@ -1,0 +1,13 @@
+#toAdd{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#toAdd p{
+    width: 33%;
+    padding: 2%;
+    background: #22b5ed;
+    border: 1px solid blue;
+    font-size: 20px;
+}
+
